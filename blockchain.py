@@ -58,5 +58,7 @@ class Blockchain:
 
 # part2: Mining the Blockchain
 
+#creating a web append
 
+app = Flask(__name__)
 
